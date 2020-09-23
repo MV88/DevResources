@@ -8,6 +8,7 @@ Here some useful commands learned
 | command | description |
 |---|---|
 | npm init -y | init a package.json with basic info |
+| npm run | list scripts runnable |
 
 
 ## Knex
