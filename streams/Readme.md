@@ -1,7 +1,6 @@
 [Back](https://github.com/MV88/DevResources)
 
 # Very nice streams to learn something
-
 <h6>Use CTRL + CLICK to open them in a separate tab</h6>
 
 ## My favourite streamer

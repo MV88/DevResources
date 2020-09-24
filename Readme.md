@@ -2,7 +2,7 @@
 
 This is a repo for sharing dev resources, commands, tips, streams etc etc.
 
-[Resources](https://github.com/MV88/DevResources/tree/master/resources)
+[Resources or Videos](https://github.com/MV88/DevResources/tree/master/resources)
 
 [Commands](https://github.com/MV88/DevResources/tree/master/commands)
 
