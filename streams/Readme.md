@@ -8,3 +8,4 @@
 
 ## Other Interesting Streamers
 - The Live Coders [Twitch](https://twitch.tv/thelivecoders)
+- The Coding Train [Youtube](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
