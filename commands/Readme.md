@@ -33,3 +33,11 @@ Here some useful commands learned
 | git gui |  |
 | git log --oneline |  |
 | git rebase -i --root master | squash first commits done |
+
+
+## Node 
+| command | description |
+|---|---|
+| node -e "console.log(require('crypto').randomBytes(30).toString('hex'))" | it evaluates the script specified with eval |
+|  |  |
+|  |  |
