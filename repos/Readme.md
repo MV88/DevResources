@@ -8,3 +8,4 @@
 ## Vue
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
 - [Vue Property Decorator](https://github.com/kaorun343/vue-property-decorator)
+- [vue-charge](https://github.com/WoodyDark/vue-charge)
